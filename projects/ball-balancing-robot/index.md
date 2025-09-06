@@ -8,6 +8,6 @@ permalink: /projects/ball-balancing-robot/
  
 Acha Simonel Fon, Alberta Petiafo, Andrew Omolo, Ayobami Olumide Adigun, Jamiu Olamide Afolayan
 
-![Ball Balancing Robot](./assets/ballsummary.jpg)
+![Ball Balancing Robot](./assets/ballsummary.jpeg)
 
 
