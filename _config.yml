@@ -1,5 +1,4 @@
 theme: minima
-title: My Research Website
 author: Alberta Petiafo
 
 # Navigation links
@@ -7,3 +6,4 @@ header_pages:
   - Index.md
   - Projects.md
   - Extra.md
+footer_content: "© 2025 Alberta Petiafo. All rights reserved."
