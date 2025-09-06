@@ -3,17 +3,16 @@ layout: page
 title: About Me
 permalink: /
 ---
- <img src="./assets/Profile.jpeg" alt="Profile Picture" width="200" style="border-radius:10px;"> 
+ <img src="./assets/Profile.jpeg" alt="Profile Picture" width="200" style="border-radius:10px; float: right; margin: 10px;"> 
 
 
 Hi, I’m **Alberta Petiafo**.  
 
-I’m currently a graduate student at Ashesi University pursuing an MSc in Mechatronics Engineering.  
+I’m currently a graduate student at Ashesi University pursuing an MSc in Mechatronics Engineering. I earned my Bachelor's degree from KNUST, Ghana, and later served as a Teaching and Research Assistant.​
 
-My research focuses on **X, Y, Z**.  
+ Beyond academics, I am passionate about volunteering work, especially initiatives that involve teaching and sharing knowledge about emerging technologies.  
 
-This website shares my **projects** and some **extra activities** I do outside research.
-
+Outside of engineering, I enjoy cooking, trying out diverse cuisines and spending time in nature through sightseeing and outdoor adventures.
 
 
 
