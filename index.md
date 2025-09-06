@@ -3,5 +3,7 @@ layout: home
 title: Home
 ---
 
-Welcome to my blog! 🎉  
-Here you’ll find posts about my projects and ideas.
+# Welcome 👋
+
+I am a researcher in [Your Field].  
+This website contains my **research interests, publications, and teaching**.
