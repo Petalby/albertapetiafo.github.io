@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /
 ---
- <img src="/assets/Profilepicture.jpeg" alt="Profile Picture" width="200" style="border-radius:10px;"> 
+ <img src="/assets/Profile.jpeg" alt="Profile Picture" width="200" style="border-radius:10px;"> 
 
 
 Hi, I’m **Alberta Petiafo**.  
@@ -13,6 +13,7 @@ I’m currently a graduate student at Ashesi University pursuing an MSc in Mecha
 My research focuses on **X, Y, Z**.  
 
 This website shares my **projects** and some **extra activities** I do outside research.
+
 
 
 
