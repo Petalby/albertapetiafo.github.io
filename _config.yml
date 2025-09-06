@@ -1,4 +1,9 @@
 theme: minima
-title: My Jekyll Website
-description: A simple site powered by Jekyll and GitHub Pages
-author: Your Name
+title: My Research Website
+author: Alberta Petiafo
+
+# Navigation links
+header_pages:
+  - index.md
+  - projects.md
+  - extra.md
