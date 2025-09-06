@@ -2,16 +2,22 @@
 layout: page
 title: Projects
 permalink: /projects/
+hide_title: true
 ---
 
 # Projects
 
 Here are some of the projects I’ve worked on:
 
-## Project 1
-- Short description of the project.
-- [Link to code](https://github.com/username/project1) | [PDF Report](/assets/project1.pdf)
 
-## Project 2
-- Short description.
-- Maybe a figure or screenshot.
+## Graduate Projects
+
+- [Ball Balancing Robot](/projects/ball-balancing-robot/)
+- [VEX 5 Robot](/projects/vex-5-robot/)
+- [Control of a Quadcopter](/projects/quadcopter-control/)
+- [Mathematical Tools Poster Presentation](/projects/mathematical-tools/)
+
+## Undergraduate Projects
+
+- [Redesign of a Tractor Sprayer Frame](/projects/tractor-sprayer-frame/)
+- [Automatic Control Project](/projects/automatic-control/)
