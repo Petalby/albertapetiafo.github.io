@@ -8,7 +8,7 @@ permalink: /projects/vex-5-robot/
 
 
   <div style="flex: 1;">
-    <h2>Alberta Petiafo, Priscilla Yeboaa, Hillary Kiduhu Ndeda</h2>
+    <p>Alberta Petiafo, Priscilla Yeboaa, Hillary Kiduhu Ndeda</p>
     <p>This is the VEX 5 Robot project summary.</p>
     <img src="/assets/vexsummary.jpeg" alt="VEX 5 Robot" style="max-width: 100%;">
   </div>
