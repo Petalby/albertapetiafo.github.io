@@ -1,5 +1,8 @@
 title:
 theme: minima
+minima:
+  skin: auto
+
 author: Alberta Petiafo
 
 # Navigation links
