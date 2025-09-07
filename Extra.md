@@ -2,14 +2,11 @@
 layout: page
 title: Extra
 permalink: /extra/
+hide_title: true
 ---
 
-# Extra ✨
-
-This page contains things beyond research.
 
 ## Volunteering
-- Describe your volunteering activities.
+- ![Pics](/extra/volunteering/)
 
-## Creative Ideas
-- Any hobby projects, art, writing, or experiments you’d like to share.
+
