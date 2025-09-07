@@ -7,6 +7,7 @@ hide_title: true
 
 
 ## Volunteering
-- ![/assets/pic.jpeg](/extra/volunteering/)
+[![Volunteering Picture](/assets/pic.jpeg)](/extra/volunteering/)
+
 
 
