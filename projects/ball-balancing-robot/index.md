@@ -20,4 +20,4 @@ permalink: /projects/ball-balancing-robot/
 </div>
 
 
-
+[Ball balancing with PID controller](https://youtu.be/WWQu4sDhVPg)
