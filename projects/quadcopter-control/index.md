@@ -1,3 +1,4 @@
+---
 layout: page
 title: Quadcopter Control
 permalink: /projects/quadcopter-control/
