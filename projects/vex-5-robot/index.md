@@ -3,10 +3,26 @@ layout: page
 title: Vex 5 Robot
 permalink: /projects/vex-5-robot/
 ---
-<img src="/assets/vexrobot.jpeg" alt="Profile Picture" width="200"> 
 
-Alberta Petiafo, Priscilla Yeboaa, Hillary Kiduhu Ndeda
-![VEX 5 Robot](/assets/vexsummary.jpeg)
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+
+  <div style="flex: 1;">
+    <h2>Alberta Petiafo, Priscilla Yeboaa, Hillary Kiduhu Ndeda</h2>
+    <p>This is the VEX 5 Robot project summary.</p>
+    <img src="/assets/vexsummary.jpeg" alt="VEX 5 Robot" style="max-width: 100%;">
+  </div>
+
+
+  <div>
+    <img src="/assets/vexrobot.jpeg" alt="Profile Picture" width="200" style="border-radius: 10px;">
+  </div>
+
+</div>
+
+
+
+
 
 
 [Moving in an arbitrary zig zag path](https://youtu.be/Qjbvib-Wt3s)
