@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ball Balancing Robot
-permalink: /projects/ball-balancing-robot/
+permalink: /projects/vex-5-robot/
 ---
 <img src="/assets/vexrobot.jpeg" alt="Profile Picture" width="200" style="border-radius:10px; float: right; margin: 10px;"> 
 
