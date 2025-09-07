@@ -9,3 +9,7 @@ Alberta Petiafo, Priscilla Yeboaa, Hillary Kiduhu Ndeda
 ![VEX 5 Robot](/assets/vexsummary.jpeg)
 
 
+![Moving in an arbitrary zig zag path]/(https://youtu.be/Qjbvib-Wt3s)
+Robot moving in an enclosed trajectory
+Distance sensor in S trajectory
+S trajectory while updating its orientation
